@@ -2,7 +2,7 @@
 
 # Práctica 0: Modelo del sistema respiratorio
 
-## Infromación del\la estudiante
+## Infromación de la estudiante
  Ana K. Valle \[22211769]; l22211769@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
